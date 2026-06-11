@@ -127,7 +127,7 @@ nav button {
 }
 
 
-.seperation {
+.separation {
     height: 7px;
     background-color: rgb(44, 44, 44);
 }
@@ -184,7 +184,6 @@ nav button {
     max-width: 70vw;
     margin: auto;
     color: white;
-    justify-content: center;
     align-items: center;
 }
 
