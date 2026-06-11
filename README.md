@@ -25,6 +25,3 @@ This project recreates the Netflix homepage layout with a hero section, feature 
 Clone the repository and open `index.html` in your browser.
 
 This project was created for learning and practice purposes only.
-
-
-Created by Akei
